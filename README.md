@@ -13,3 +13,6 @@ Berisi Project-project untuk praktikum mata kuliah PCVK Ganjil 23/24 JTI Polinem
 | 04-10-2023 | WEEK -6 | https://github.com/JenioDwiSetyoFavianGian/PCVK_Ganjil_2023/blob/main/Week6.ipynb |
 | 11-10-2023 | WEEK -7 | https://github.com/JenioDwiSetyoFavianGian/PCVK_Ganjil_2023/blob/main/Week7.ipynb |
 | 18-10-2023 | WEEK -8 | https://github.com/JenioDwiSetyoFavianGian/PCVK_Ganjil_2023/blob/main/Week8.ipynb |
+| 01-10-2023 | WEEK -10 | https://github.com/JenioDwiSetyoFavianGian/PCVK_Ganjil_2023/blob/main/Week10.ipynb |
+| 08-10-2023 | WEEK -11 | https://github.com/JenioDwiSetyoFavianGian/PCVK_Ganjil_2023/blob/main/Week11.ipynb |
+| 15-10-2023 | WEEK -12 |  |
